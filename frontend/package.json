@@ -23,6 +23,7 @@
 		"country-flag-icons": "^1.5.19",
 		"date-fns": "^4.1.0",
 		"formik": "^2.4.6",
+		"generate-password-browser": "^1.1.0",
 		"humps": "^2.0.1",
 		"query-string": "^9.2.2",
 		"react": "^19.1.1",
